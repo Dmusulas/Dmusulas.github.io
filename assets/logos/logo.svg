@@ -1,6 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="53" height="52" viewBox="-10 -10 53 52">
-  <g fill="#05BF85" fill-rule="evenodd">
-    <path d="M20.14 2.13L33 10l-1 2-6.65-3.08a12.99 12.99 0 0 1-3 13.1l1.65 9.3c.07.38-.2.68-.57.68h-.74a.86.86 0 0 1-.81-.68l-1.36-7.71A12.93 12.93 0 0 1 14 25.96v5.34a.7.7 0 0 1-.7.7h-.6a.7.7 0 0 1-.7-.7v-5.34a12.93 12.93 0 0 1-6.5-2.35l-1.37 7.71a.86.86 0 0 1-.81.68h-.73a.56.56 0 0 1-.58-.68l1.64-9.29a13 13 0 0 1 16.49-19.9zM13 24a11 11 0 1 0 0-22 11 11 0 0 0 0 22z"/>
-    <path fill-opacity=".44" d="M13 24a11 11 0 0 0 11-11s-22-.1-22 0a11 11 0 0 0 11 11z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7432.5073"
+   height="7039.3296"
+   viewBox="0 0 31.216531 41.813618"
+   version="1.1"
+   id="svg2299"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2301"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.04"
+     inkscape:cx="-687.5"
+     inkscape:cy="1150"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2296">
+    <rect
+       x="190.60889"
+       y="289.75052"
+       width="169.75443"
+       height="196.97777"
+       id="rect61759" />
+    <rect
+       x="78.968231"
+       y="207.87169"
+       width="243.21986"
+       height="253.1255"
+       id="rect51439" />
+    <rect
+       x="60.539616"
+       y="239.44556"
+       width="279.81763"
+       height="285.41733"
+       id="rect32403" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.100036,-38.640923)">
+    <rect
+       style="fill:#4bd1ed;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0617929"
+       id="rect2325"
+       width="44.149094"
+       height="41.813618"
+       x="37.779045"
+       y="38.80164" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text32401"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Verdana Bold';-inkscape-font-specification:'Verdana Bold, ';white-space:pre;shape-inside:url(#rect32403);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.27945188,0,0,0.2759257,20.397148,-16.717228)"
+       id="text51437"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';white-space:pre;shape-inside:url(#rect51439)"><tspan
+         x="78.96875"
+         y="275.99179"
+         id="tspan945">D</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.27495941,0,0,0.27683703,6.6656123,-23.421488)"
+       id="text61757"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';white-space:pre;shape-inside:url(#rect61759);fill:#000000;fill-opacity:1"><tspan
+         x="190.60938"
+         y="357.8707"
+         id="tspan947">M</tspan></text>
   </g>
 </svg>
