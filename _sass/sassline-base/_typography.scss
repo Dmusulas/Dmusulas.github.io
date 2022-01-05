@@ -333,8 +333,12 @@ a {
 
   code {
     @include fontsize(theta, all);
-
     line-height: 1rem;
+  }
+
+  summary {
+    text-decoration: underline;
+
   }
 
   // Letter space those capitals people, Jan Tschichold would be proud.
