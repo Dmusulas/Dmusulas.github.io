@@ -4,8 +4,15 @@ layout: page
 feature_image: "/assets/background_images/cyber_stuff.jpg"
 ---
 
-Check out my pgp key:
+OpenPGP is the most widely used email encryption standard. It provides cryptographic solution to online messaging security flaws. By exchanging public keys two parties can communicate in *end-to-end* encrypted channel. Here I provide mine in case You have sensitive matter to discuss with me. 
 
+## Importing my public PGP 
+To setup OpenPGP on your computer you can refer to my [blog post]({% post_url 2021-01-05-OpenPGP_installation %}). If you have OpenPGP already installed you can import my key either from keyserver using command:
+{% include codeHeader.html %}
+```
+gpg --keyserver keyserver.ubuntu.com --recv-keys 8CAF96421B8936CCBBCBFF25135BE6FB0818DC41
+```
+If you are uncomfortable using terminal you can copy key below and import it into keychain program. 
 {% include codeHeader.html %}
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

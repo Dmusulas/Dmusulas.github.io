@@ -6,6 +6,7 @@ body {
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
+  position: relative;
 }
 
 .container {
@@ -137,7 +138,7 @@ body {
 
 .content {
   @include breakpoint(break-1) {
-    width: 62%;
+    width: 80%;
   }
 }
 
